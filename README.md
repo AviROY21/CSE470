@@ -2,22 +2,23 @@
 
 - GROUP ` 1 ' 
 
+WEBSITE LINK: https://cse470.aviroy2020.xyz/
 
 AVISHEK ROY SPARSHO
 ARNAB BISWAS
 
 -   Need to add seeder
--   Use image url instead of local files.s
+-   Use image URL instead of local files.s
 
 ### Functionality Overview
 
--   Admin, doctor, patients authentication,
--   Admin can add doctors, departments to system.
--   Doctor can make appointment time slot.
--   Patients can book an appointment with doctor.
+-   Admin, doctor, patient authentication,
+-   Admin can add doctors, and departments to the system.
+-   The doctor can make an appointment time slot.
+-   Patients can book an appointment with the doctor.
 -   Search doctors.
--   Doctor can make prespription.
--   Patient can view their prespription anytime.
+-   The doctor can make the prescription.
+-   Patient can view their prescription anytime.
 -   Patient can make/update their profile.
 -   Dashboard analytics.
 
@@ -26,4 +27,4 @@ ARNAB BISWAS
 This app can be extended by adding more features or rename the variables to fit the business model
 
 -   Adding SMS notifications to patients and doctors (AWS SNS).
--   Allow doctors to export appointment time to calendar.
+-   Allow doctors to export appointment time to the calendar.
